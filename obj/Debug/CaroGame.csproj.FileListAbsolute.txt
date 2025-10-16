@@ -1,0 +1,10 @@
+D:\KimHieu\CaroGame\obj\Debug\CaroGame.csproj.AssemblyReference.cache
+D:\KimHieu\CaroGame\obj\Debug\CaroGame.MainForm.resources
+D:\KimHieu\CaroGame\obj\Debug\CaroGame.Properties.Resources.resources
+D:\KimHieu\CaroGame\obj\Debug\CaroGame.csproj.GenerateResource.cache
+D:\KimHieu\CaroGame\obj\Debug\CaroGame.csproj.CoreCompileInputs.cache
+D:\KimHieu\CaroGame\bin\Debug\CaroGame.exe.config
+D:\KimHieu\CaroGame\bin\Debug\CaroGame.exe
+D:\KimHieu\CaroGame\bin\Debug\CaroGame.pdb
+D:\KimHieu\CaroGame\obj\Debug\CaroGame.exe
+D:\KimHieu\CaroGame\obj\Debug\CaroGame.pdb
